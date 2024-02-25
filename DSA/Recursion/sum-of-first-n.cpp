@@ -45,3 +45,15 @@ int main()
     cout << fun3(10, 0);
     return 0;
 }
+
+
+
+
+
+
+
+
+
+
+
+
